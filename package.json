@@ -1,6 +1,6 @@
 {
   "name": "introspect-constrain",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small library to modelize constraints",
 
   "author": "subtenante@gmail.com",
